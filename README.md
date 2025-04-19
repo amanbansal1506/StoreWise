@@ -8,7 +8,8 @@ A simple and effective command-line Inventory and Stock Management System built 
 
 Here’s a snapshot of the Inventory and Stock Management System in action:
 
-![Inventory System Screenshot](Screenshot IDE.png)
+![Inventory System Screenshot](Screenshot_IDE.png)
+![Inventory System Screenshot](Screenshot_SQL.png)
 
 ## ✨ Features
 
